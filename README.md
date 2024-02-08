@@ -12,7 +12,7 @@ Essa aplicação foi desenvolvida durante o NLW Expert da Rocketseat. <br/>
   <img src=".github/preview.png" width="100%">
 </p>
 
- <h3 align="center"><a href="" target="_blank">Projeto ao vivo</a></h3>
+ <h3 align="center"><a href="https://notes-react-self.vercel.app/" target="_blank">Projeto ao vivo</a></h3>
 
 ### 🚀 Tecnologias
 
